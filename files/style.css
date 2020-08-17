@@ -6,34 +6,28 @@ body {
     background-image: url(blue_texture.jpg);
     background-repeat: repeat;
 }
-
 table {
     width: 500px;
     margin: auto;
     border: 5px solid #777;
     background-color: #fff;
    }
-
 caption {
     color: #ebf20a;
     text-shadow: black 3px 3px 5px;
     font-size: 1.8em;
     padding-bottom: 0.5em;
 }
-
 td {
     text-align: center; 
 }
-
 .app_form_block input[type="number"] {
     padding: 4px 4px;
 }
-
 .app_main 
 .block_row {
     padding: 1em 0.5em;
 }
-
 .app_timer 
 .app_console 
 .timer_panel_info,
@@ -45,15 +39,12 @@ td {
     line-height: 1.2em;
     letter-spacing: 0;
 }
-
 .green {
     color: #3dcc30;
 }
-
 .red {
     color: #d8250e;
 }
-
 .app_timer
 .app_console
 .timer_panel_nums {
@@ -61,7 +52,6 @@ td {
     line-height: 1.2em;
     margin-top: 50px;
 }
-
 .app_timer
 .timer_btn.hide,
 .app_timer
@@ -70,7 +60,6 @@ td {
 .timer_sep.hide {
     display: none;
 }
-
 .app_timer .timer_btn {
     border-color: #777;
     box-shadow: #777 2px 2px 5px;
@@ -82,14 +71,12 @@ td {
     margin:  0 2px;
     min-width: 180px;
 }
-
 .app_timer
 .timer_btn:hover {
     border-color: #777;
     background-color: #777;
     color: #fff;
 }
-
 .app_timer
 .timer_btn.run,
 .app_timer
@@ -98,7 +85,6 @@ td {
     color: #5594e5;
     font-weight: 600;
 }
-
 .app_timer
 .timer_btn.run:hover,
 .app_timer
